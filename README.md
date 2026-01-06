@@ -2,6 +2,7 @@
 
 🎓 Computer Technology Student  
 📊 Aspiring Data Analyst | Data Scientist 
+
 🚀 Passionate about data, problem-solving, and building impactful projects  
 
 ---
@@ -47,7 +48,7 @@
 - Identify top-performing item categories  
 - Compare outlet size, location, and type  
 - Evaluate customer ratings and item visibility
-🔗 **
+🔗 *https://github.com/sakshibhoyar24/Blinkit-Dashboard*
 
 # 🚀 Kickstarter Crowdfunding Analysis Dashboard (Tableau)
 - Analyze overall Kickstarter project performance
