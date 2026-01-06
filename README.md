@@ -48,6 +48,7 @@
 - Identify top-performing item categories  
 - Compare outlet size, location, and type  
 - Evaluate customer ratings and item visibility
+  
 🔗 *https://github.com/sakshibhoyar24/Blinkit-Dashboard*
 
 # 🚀 Kickstarter Crowdfunding Analysis Dashboard (Tableau)
@@ -58,6 +59,16 @@
 - Identify top-performing countries and projects
 
 
+---
+## 💼 Experience
+
+📊 Data Analyst Intern
+
+Self Projects
+- Analyzed large datasets using Excel, SQL, and Python to extract actionable insights
+- Built interactive dashboards in Power BI with KPIs such as MTD, QTD, YTD, Total Sales, and Avg Sales
+- Cleaned and transformed raw data using Power Query & Python (Pandas)
+- Designed dashboards with slicers, cards, charts, and filters for business decision-making Performed trend analysis and performance tracking
 ---
 
 ## 📫 Connect With Me  
